@@ -1,11 +1,11 @@
-About r-homologene
-==================
+About r-homologene-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-homologene-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/oganm/homologene
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-homologene-feedstock/blob/main/LICENSE.txt)
 
 Summary: A wrapper for the homologene database by the National Center for Biotechnology Information ('NCBI'). It allows searching for gene homologs across species. Data in this package can be found at <ftp://ftp.ncbi.nih.gov/pub/HomoloGene/build68/>. The package also includes an updated version of the homologene database where gene identifiers and symbols are replaced with their latest (at the time of submission) version and functions to fetch latest annotation data to keep updated.
 
